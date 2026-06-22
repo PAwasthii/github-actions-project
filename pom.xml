@@ -25,6 +25,9 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		<properties>
+   		 <sonar.host.url>http://13.203.160.172:9000</sonar.host.url>
+		</properties>
 
 	</dependencies>
   <build>
